@@ -1,0 +1,22 @@
+@import url("styles/header.css");
+@import url("styles/header.css");
+@import url("styles/header.css");
+:root {
+    --cor-de-fundo: white;
+    --branco: #FFFFFF;
+    --laranja:#EB9800;
+    --azul-degrade: linear-gradient(97.5deg, #002F52 35.49%, #326589 165.47%);
+    --fonte-prinipal:"poppins";
+}
+body {
+    background-color: var(--cor-de-fundo);
+    fonte-family: var(--fonte-prinipal);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+:root {
+    --cor-de-fundo: #ebecee
+    --branco: #ffffff
+    --laranja
+}
